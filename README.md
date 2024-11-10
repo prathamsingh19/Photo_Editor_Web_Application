@@ -1,6 +1,6 @@
 # Photo Editor Web Application 📷
 
-Welcome to a **react to-do list app** that lets you add tasks with due dates, track their status, and easily delete them, all with a smooth, intuitive interface. 🌟
+A user-friendly **photo editor** with various filters, rotation, brightness adjustment, image saving, and a reset filter option. Smooth interface for easy editing and enhanced user experience. 🌟
 
 ## 🚀 Features
 
